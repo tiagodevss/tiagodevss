@@ -1,5 +1,5 @@
 
-## <img src="https://c.tenor.com/FZugEEtzj3AAAAAi/super-saiyan-goku.gif" width="50"> Opa! Aqui é o Tiago!👋<img src="https://c.tenor.com/m_qxS7ocswAAAAAj/megamen-animação.gif" width="50">
+# <img src="https://c.tenor.com/FZugEEtzj3AAAAAi/super-saiyan-goku.gif" width="50"> Opa! Aqui é o Tiago!👋
 Sou nascido no sertão (PI) 🌵, e hoje residente em Sumaré (SP).
 Atualmente cursando Análise e Desenvolvimento de Sistemas na Uninter. 👨‍🎓
 

@@ -1,7 +1,7 @@
 
 # <img src="https://c.tenor.com/FZugEEtzj3AAAAAi/super-saiyan-goku.gif" width="50"> Opa! Aqui é o Tiago!👋
 Sou nascido no sertão (PI) 🌵, e hoje residente em Sumaré (SP).
-Atualmente cursando Análise e Desenvolvimento de Sistemas na Uninter. 👨‍🎓
+Atualmente cursando Ciência da Computação na Estácio. 👨‍🎓
 
 Apaixonado por tecnologia, e por transformar a web em um lugar mais bonito. Sou desenvolvedor front-end e possuo habilidades necessárias para o desenvolvimento de interfaces responsivas para websites e apps.
 

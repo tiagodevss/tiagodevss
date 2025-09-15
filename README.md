@@ -1,9 +1,18 @@
 
 # <img src="https://c.tenor.com/FZugEEtzj3AAAAAi/super-saiyan-goku.gif" width="50"> Opa! Aqui é o Tiago!👋
-Sou nascido no sertão (PI) 🌵, e hoje residente em Sumaré (SP).
-Atualmente cursando Ciência da Computação na Estácio. 👨‍🎓
+Sou um desenvolvedor nordestino, moldado pelo ritmo acelerado das startups, com mais de 5 anos de experiência em transformar ideias complexas em soluções digitais robustas. Atuo como fullstack, com foco em backend Java (Spring Boot, WebFlux) e frontend React, sempre buscando o equilíbrio entre performance, simplicidade e escalabilidade.
 
-Apaixonado por tecnologia, e por transformar a web em um lugar mais bonito. Sou desenvolvedor front-end e possuo habilidades necessárias para o desenvolvimento de interfaces responsivas para websites e apps.
+Stack principal:
+✔️ Java + Spring Boot (avançado)
+✔️ Programação reativa com WebFlux
+✔️ React com Redux e Redux-Saga
+✔️ Node.js (intermediário)
+✔️ PostgreSQL e MySQL (avançado)
+✔️ AWS (Lambda, EC2, SQS, Route 53)
+
+Já estive em diversos projetos onde fui responsável desde a arquitetura do backend até a experiência do usuário no frontend. Tenho orgulho de encarar problemas que, pra muitos, só se resolvem com consultorias externas — e superá-los com código limpo e bem pensado.
+
+Acredito que a tecnologia deve ser acessível, eficiente e humana. E acredito, principalmente, que é a persistência — não as circunstâncias — que constrói um bom profissional.
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=tiagodevss)
 
